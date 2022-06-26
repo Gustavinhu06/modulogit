@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(222,202,211);
+}
+.botao {
+    background-color:red ;
+    color:#fff;
+    border:0px;
+    padding:20px;
+}
+.area {
+    width:500px;
+    height:500px;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position:center;
+    padding:20px;
+    background-image:url(images/colorful-umbrella-1176220.jpg.2.jpg);
+}
