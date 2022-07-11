@@ -1,0 +1,62 @@
+#Gustavo {
+    width:200px;
+    height:200px;
+    border:2px solid wheat;
+}
+
+.lista {
+    background-color: yellow;
+    width:100px;
+    height:100px;
+}
+.botao {
+    padding:10px;
+    margin-top:30px;
+}
+.verde {
+    background-color: darkolivegreen;
+}
+.azul {
+    background-color: blue;
+
+}
+.vermelho {
+    background-color: red;
+
+}
+
+
+
+
+
+
+
+.alavanca {
+    background-color: black;
+    color:white;
+}
+.verde {
+    background-color: green;
+    color: black;
+}
+
+.texto {
+    width:200px;
+    height:200px;
+    overflow:auto;
+    background-color:gray;
+    padding:20px;
+    border:2px solid pink;
+}
+.scrollbutton{
+    width:50px;
+    height:50px;
+    border-radius: 15px;
+    position: fixed;
+    right: 20px;
+    bottom:20px;
+    background-color:rebeccapurple;
+    z-index:999;
+    cursor:pointer;
+    display:none;
+}
